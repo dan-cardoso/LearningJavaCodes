@@ -15,3 +15,5 @@ Descrição:
 	DoWhileZero		-> Mesmo exemplo acima, mas usando o (do while)
 	
 	CategoriaElseIf		-> Separa em categorias, de acordo com parâmetros (If, Else If)
+
+	VetorSomaMediaImpares	-> Impressao de Arrays
